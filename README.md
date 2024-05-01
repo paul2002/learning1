@@ -1,2 +1,5 @@
-# learning1
-Sample repo for learning github with Jeremy Howard
+# Learning 1
+
+## Introduction
+
+Sample repo for learning github using fast.ai course with Jeremy Howard
